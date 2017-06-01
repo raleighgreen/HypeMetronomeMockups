@@ -74,7 +74,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2017-06-01T19:54:28Z</date>
+	<date>2017-06-01T19:57:22Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -220,7 +220,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>242.5</real>
 		<key>mainWindowFrame</key>
-		<string>101 61 1303 816 0 0 1440 877 </string>
+		<string>78 61 1303 816 0 0 1440 877 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -3760,7 +3760,7 @@
 							<key>identifier</key>
 							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
-							<string>0</string>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6487,7 +6487,7 @@
 									<key>identifier</key>
 									<string>DisplayHiddenOverride</string>
 									<key>objectValue</key>
-									<string>0</string>
+									<string>1</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
