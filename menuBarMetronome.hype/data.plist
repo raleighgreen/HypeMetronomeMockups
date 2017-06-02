@@ -74,7 +74,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2017-06-02T15:56:27Z</date>
+	<date>2017-06-02T15:57:56Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -220,7 +220,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>51</real>
 		<key>mainWindowFrame</key>
-		<string>25 57 1303 816 0 0 1440 877 </string>
+		<string>24 57 1303 816 0 0 1440 877 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -264,7 +264,7 @@
 	<key>monotypeProjectID</key>
 	<string>86A7D5F9-6BBE-48BD-B6A5-E7615412BB96-6982-0000540BB1EF7752</string>
 	<key>oidCounter</key>
-	<integer>77</integer>
+	<integer>78</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -547,6 +547,8 @@
 							<real>0.3333333432674408</real>
 							<key>72</key>
 							<real>0.0</real>
+							<key>78</key>
+							<real>0.0</real>
 							<key>kTimelineDefaultIdentifier</key>
 							<real>0.0</real>
 						</dict>
@@ -605,20 +607,18 @@
 	<key>symbols</key>
 	<array>
 		<dict>
-			<key>currentGroupElement</key>
-			<string>71</string>
 			<key>documentIdentifier</key>
 			<string>13E973A0-9204-4E6E-A447-4CF47DD5BF1C-9327-00006967F45713C3</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>15</string>
+				<string>71</string>
 			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
 				<false/>
 				<key>currentTimelineIdentifier</key>
-				<string>72</string>
+				<string>78</string>
 				<key>customBehaviors</key>
 				<array/>
 				<key>elements</key>
@@ -3788,7 +3788,7 @@
 							<key>identifier</key>
 							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
-							<string>1</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6832,7 +6832,7 @@
 									<key>identifier</key>
 									<string>DisplayHiddenOverride</string>
 									<key>objectValue</key>
-									<string>1</string>
+									<string>0</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -6950,6 +6950,22 @@
 						<string>72</string>
 						<key>name</key>
 						<string>showMetronome</string>
+						<key>userDefinedDuration</key>
+						<real>0.0</real>
+					</dict>
+					<dict>
+						<key>animations</key>
+						<array/>
+						<key>firstKeyframeIsRelative</key>
+						<false/>
+						<key>framesPerSecond</key>
+						<integer>30</integer>
+						<key>hidden</key>
+						<false/>
+						<key>identifier</key>
+						<string>78</string>
+						<key>name</key>
+						<string>playSequence</string>
 						<key>userDefinedDuration</key>
 						<real>0.0</real>
 					</dict>
